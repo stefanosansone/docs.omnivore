@@ -15,6 +15,7 @@ Omnivore Features:
 - PDF support
 - [Web app](https://omnivore.app/) written in Node.js and TypeScript
 - [Native iOS app](https://omnivore.app/install/ios)
+- [Native Android app](https://omnivore.app/install/android)
 - Progressive web app for Android users
 - Browser extensions for [Chrome](https://omnivore.app/install/chrome), [Safari](https://omnivore.app/install/safari), [Firefox](https://omnivore.app/install/firefox), and [Edge](https://omnivore.app/install/edge)
 - Labels (aka tagging)
